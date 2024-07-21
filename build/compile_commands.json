@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/Acceptor.cpp.o -c /home/wanzihui/C++Server/day16/src/Acceptor.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/Acceptor.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/Buffer.cpp.o -c /home/wanzihui/C++Server/day16/src/Buffer.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/Buffer.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/Channel.cpp.o -c /home/wanzihui/C++Server/day16/src/Channel.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/Channel.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/Connection.cpp.o -c /home/wanzihui/C++Server/day16/src/Connection.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/Connection.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/EventLoop.cpp.o -c /home/wanzihui/C++Server/day16/src/EventLoop.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/EventLoop.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/Poller.cpp.o -c /home/wanzihui/C++Server/day16/src/Poller.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/Poller.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/Socket.cpp.o -c /home/wanzihui/C++Server/day16/src/Socket.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/Socket.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/TcpServer.cpp.o -c /home/wanzihui/C++Server/day16/src/TcpServer.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/TcpServer.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/ThreadPool.cpp.o -c /home/wanzihui/C++Server/day16/src/ThreadPool.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/ThreadPool.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/src",
+  "command": "/usr/bin/c++  -Dpine_shared_EXPORTS -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g -fPIC   -std=gnu++1z -o CMakeFiles/pine_shared.dir/util.cpp.o -c /home/wanzihui/C++Server/day16/src/util.cpp",
+  "file": "/home/wanzihui/C++Server/day16/src/util.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/test",
+  "command": "/usr/bin/c++   -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g   -std=gnu++1z -o CMakeFiles/echo_server.dir/echo_server.cpp.o -c /home/wanzihui/C++Server/day16/test/echo_server.cpp",
+  "file": "/home/wanzihui/C++Server/day16/test/echo_server.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/test",
+  "command": "/usr/bin/c++   -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g   -std=gnu++1z -o CMakeFiles/echo_client.dir/echo_client.cpp.o -c /home/wanzihui/C++Server/day16/test/echo_client.cpp",
+  "file": "/home/wanzihui/C++Server/day16/test/echo_client.cpp"
+},
+{
+  "directory": "/home/wanzihui/C++Server/day16/build/test",
+  "command": "/usr/bin/c++   -I/home/wanzihui/C++Server/day16/src/include -I/home/wanzihui/C++Server/day16/test/include   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g   -std=gnu++1z -o CMakeFiles/echo_clients.dir/echo_clients.cpp.o -c /home/wanzihui/C++Server/day16/test/echo_clients.cpp",
+  "file": "/home/wanzihui/C++Server/day16/test/echo_clients.cpp"
+}
+]

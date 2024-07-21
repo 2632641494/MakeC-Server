@@ -1,0 +1,1 @@
+/usr/bin/c++   -DOS_LINUX -fPIC -Wall -Wextra -std=c++17 -pthread -g   -fPIC CMakeFiles/echo_server.dir/echo_server.cpp.o  -o ../bin/echo_server -Wl,-rpath,/home/wanzihui/C++Server/day16/build/lib ../lib/libpine_shared.so 

@@ -1,0 +1,16 @@
+/home/wanzihui/C++Server/day16/build/CMakeFiles/edit_cache.dir
+/home/wanzihui/C++Server/day16/build/CMakeFiles/rebuild_cache.dir
+/home/wanzihui/C++Server/day16/build/CMakeFiles/clang-tidy.dir
+/home/wanzihui/C++Server/day16/build/CMakeFiles/cpplint.dir
+/home/wanzihui/C++Server/day16/build/CMakeFiles/format.dir
+/home/wanzihui/C++Server/day16/build/CMakeFiles/check-format.dir
+/home/wanzihui/C++Server/day16/build/src/CMakeFiles/rebuild_cache.dir
+/home/wanzihui/C++Server/day16/build/src/CMakeFiles/pine_shared.dir
+/home/wanzihui/C++Server/day16/build/src/CMakeFiles/edit_cache.dir
+/home/wanzihui/C++Server/day16/build/test/CMakeFiles/rebuild_cache.dir
+/home/wanzihui/C++Server/day16/build/test/CMakeFiles/echo_server.dir
+/home/wanzihui/C++Server/day16/build/test/CMakeFiles/build-tests.dir
+/home/wanzihui/C++Server/day16/build/test/CMakeFiles/check-tests.dir
+/home/wanzihui/C++Server/day16/build/test/CMakeFiles/echo_client.dir
+/home/wanzihui/C++Server/day16/build/test/CMakeFiles/echo_clients.dir
+/home/wanzihui/C++Server/day16/build/test/CMakeFiles/edit_cache.dir
